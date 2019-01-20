@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.boxA:after {
+	/*content: "aaaa";*/
+	display: block;
+	clear: both;
+	background-color: #a0e0fe;
+}
+
+.boxA {
+	background-color: #eee0fe;
+}
+
+.box1 {
+	float: left;
+	width: 50%;
+	/*background-color: #a0e0fe;*/
+}
+
+.box2 {
+	float: left;
+	width: 50%;
+	background-color: #111111;
+}
+
